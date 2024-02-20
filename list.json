@@ -1,7 +1,7 @@
 {
   "sitesToBlank": [
     "example.com",
-    "amazon.com",
+    "google.com",
     "apple.com"
   ]
 }
