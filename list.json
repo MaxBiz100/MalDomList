@@ -1,0 +1,7 @@
+{
+  "sitesToBlank": [
+    "example.com",
+    "malicious-site2.net",
+    "apple.com"
+  ]
+}
