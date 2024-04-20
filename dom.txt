@@ -1,4 +1,3 @@
-# Compromised domains / historical list (domains compromised in past). Downloaded from Zonefiles.io
 afobal.cl
 alvoportas.com.br
 atmape.ru
